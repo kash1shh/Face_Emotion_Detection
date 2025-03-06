@@ -8,10 +8,10 @@
 ## Installation
 
 ### Clone the repository
-
+```sh
 git clone https://github.com/kash1shh/Face_Emotion_Detection.git
 cd Face_Emotion_Detection
-
+```
 
 ### Install dependencies
 ```sh
